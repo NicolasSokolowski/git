@@ -2,7 +2,11 @@
 
 Readme are written in markdown
 
-## get repo locally
+## install Git
+
+https://git-scm.com/downloads
+
+## fetch remote repository locally
 
 git clone https://github.com/Sokolozen/git.git
 
@@ -10,6 +14,6 @@ git clone https://github.com/Sokolozen/git.git
 
 git commit -a -m "my commit"
 
-## push to origin
+## push to origin (remote repository)
 
 git push
